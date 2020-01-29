@@ -1,0 +1,4 @@
+<plugin>
+    <name>onceler</name>
+    <classname>onceler.Onceler</classname>
+</plugin>
