@@ -1,4 +1,4 @@
-scalaVersion in ThisBuild := "2.12.11-bin-SNAPSHOT"
+scalaVersion in ThisBuild := "2.12.11-bin-a1d61d9" // scala/scala#8673; change to 2.12.11/2.13.2 when released
 
 lazy val runtime = project
   .in(file("runtime"))
